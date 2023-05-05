@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Bob Smith",
+      "email": "bob@example.com"
+    },
+    {
+      "id": 5
+    },
+    {
+      "name": "sadasd",
+      "email": "sdasdasd",
+      "id": 6
+    },
+    {
+      "id": "230",
+      "email": "sdasdasd232",
+      "name": "sdasdsad",
+      "age": "23213wdas",
+      "address": "ádasdasdasd"
+    }
+  ],
+  "products": [
+    {
+      "id": "4",
+      "email": "xczxczx",
+      "name": "xcxczxczxcz",
+      "age": "23213wdas",
+      "address": "123"
+    }
+  ],
+  "cart": [],
+  "orders": []
+}
