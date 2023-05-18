@@ -1,40 +1,101 @@
 {
   "users": [
     {
+      "id": 1,
+      "name": "hau",
+      "email": "jane@example.com",
+      "password": "123",
+      "phoneNumber": "0985123412",
+      "address": "Quận 9"
+    },
+    {
       "id": 2,
       "name": "Jane Doe",
-      "email": "jane@example.com"
+      "email": "jane@example.com",
+      "password": "123",
+      "phoneNumber": "0985123412",
+      "address": "Quận 9"
     },
     {
       "id": 3,
       "name": "Bob Smith",
-      "email": "bob@example.com"
+      "email": "bob@example.com",
+      "password": "123",
+      "phoneNumber": "0985123412",
+      "address": "Quận 9"
     },
     {
-      "id": 5
+      "id": 5,
+      "name": "Bob Smith",
+      "email": "bob@example.com",
+      "password": "123",
+      "phoneNumber": "0985123412",
+      "address": "Quận 9"
     },
     {
       "name": "sadasd",
       "email": "sdasdasd",
-      "id": 6
+      "id": 6,
+      "password": "123",
+      "phoneNumber": "0985123412",
+      "address": "Quận 9"
     },
     {
-      "id": "230",
-      "email": "sdasdasd232",
-      "name": "sdasdsad",
-      "age": "23213wdas",
-      "address": "ádasdasdasd"
+      "id": 7,
+      "name": "Bob Smith",
+      "email": "bob@example.com",
+      "password": "123",
+      "phoneNumber": "0985123412",
+      "address": "Quận 9"
     }
   ],
   "products": [
     {
-      "id": "4",
-      "email": "xczxczx",
-      "name": "xcxczxczxcz",
-      "age": "23213wdas",
-      "address": "123"
+      "id": 1,
+      "quantity": 149,
+      "name": "Casio MTP-1374L-1AVDF",
+      "price": 2900000,
+      "images": [
+        "/hinh-anh-dong-ho-casio-mtp-1374l-1avdf-nam-pin-day-da-new-1.jpg",
+        "/dong-ho-casio-mtp-1374l-1avdf-nam-pin-day-da-a-hinh-2.jpg",
+        "/dong-ho-casio-mtp-1374l-1avdf-nam-pin-day-da-a-2-1.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "quantity": 89,
+      "name": "Casio MTP-1374L-1AVDF",
+      "price": 2900000,
+      "images": [
+        "/hinh-anh-dong-ho-casio-mtp-1374l-1avdf-nam-pin-day-da-new-1.jpg",
+        "/dong-ho-casio-mtp-1374l-1avdf-nam-pin-day-da-a-hinh-2.jpg",
+        "/dong-ho-casio-mtp-1374l-1avdf-nam-pin-day-da-a-2-1.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "quantity": 39,
+      "name": "Casio MTP-VT01L-1BUDF",
+      "price": 2900000,
+      "images": [
+        "/dong-ho-Casio-MTP-VT01L-1BUDF-1.jpg",
+        "/dong-ho-casio-mtp-vt01l-1budf-nam-pin-quartz-day-da-7.jpg",
+        "/dong-ho-casio-mtp-vt01l-1budf-nam-pin-quartz-day-da-10.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "quantity": 5,
+      "name": "Casio AE-1200WHD-1AVDF",
+      "price": 2900000,
+      "images": [
+        "/hinh-anh-AE-1200WHD-1AVDF-new-2.jpg",
+        "/AE-1200WHD-1AVDF-1-1.jpg",
+        "/AE-1200WHD-1AVDF-2-1.jpg"
+      ]
     }
   ],
-  "cart": [],
-  "orders": []
+  "carts": [],
+  "orders": [],
+  "cashs": []
 }
